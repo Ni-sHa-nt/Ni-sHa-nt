@@ -14,18 +14,19 @@
 - 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=7952B3)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-333333?style=flat&logo=Responsive&logoColor=00C7B7)
+![Figma to HTML](https://img.shields.io/badge/-Figma%20to%20HTML-333333?style=flat&logo=Figma&logoColor=F24E1E)
+![PSD to HTML](https://img.shields.io/badge/-PSD%20to%20HTML-333333?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)
+
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=7952B3)
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-333333?style=flat&logo=Responsive&logoColor=00C7B7)
-![Figma to HTML](https://img.shields.io/badge/-Figma%20to%20HTML-333333?style=flat&logo=Figma&logoColor=F24E1E)
-![PSD to HTML](https://img.shields.io/badge/-PSD%20to%20HTML-333333?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)
+
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <!--

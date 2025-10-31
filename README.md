@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Nishant+Kumar;I'm+a+Frontend+Developer)](https://git.io/typing-svg)
+
+<!-- <h1 align="center">Hi 👋, I'm Nishant Kumar</h1> -->
 <h3 align="center">💻 Frontend Developer | Crafting Responsive & Interactive Web Experiences</h3>
 
 - 🌱 I’m currently learning **Frontend Development**
